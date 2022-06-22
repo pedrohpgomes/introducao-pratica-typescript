@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["teste","document","getElementsByTagName","console","log"],"mappings":"AAAA,IAAIA,KAAK,GAAGC,QAAQ,CAACC,oBAAT,CAA8B,MAA9B,CAAZ;AACAC,OAAO,CAACC,GAAR,CAAYJ,KAAK,CAAC,CAAD,CAAjB","file":"app.c328ef1a.js","sourceRoot":"..","sourcesContent":["var teste = document.getElementsByTagName(\"body\");\r\nconsole.log(teste[0]);"]}

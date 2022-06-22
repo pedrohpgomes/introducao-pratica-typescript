@@ -1,0 +1,15 @@
+{
+  "name": "desafio-typescript-dio",
+  "version": "1.0.0",
+  "description": "desafio do modulo introducao pratica ao TypeScript da DIO",
+  "main": "desafio-1.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Henrique",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
